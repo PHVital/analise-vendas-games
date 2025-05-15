@@ -52,5 +52,5 @@ A análise completa, com todo o código, visualizações e interpretações, est
 ## Autor
 
 * **Pedro Henrique Vital Guimarães**
-* GitHub: `[@PHVital](https://github.com/PHVital)`
-* LinkedIn: `Pedro Henrique Vital Guimarães https://www.linkedin.com/in/pedro-henrique-vital-guimar%C3%A3es/`
+* GitHub: [@PHVital](https://github.com/PHVital)
+* LinkedIn: [Pedro Henrique Vital Guimarães](https://www.linkedin.com/in/pedro-henrique-vital-guimar%C3%A3es/)
